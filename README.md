@@ -1,4 +1,4 @@
-# Tuneup Time
+cd# Tuneup Time
 In this project, you will tune up some code that is not performing well.  By "not performing" we mean that it's terribly inefficient at what it is trying to do:  Eliminating duplicate entries in a list of popular movie titles.  Although the code is bad, it's representative of what you might encounter in the Real World (tm).
 
 ## Objectives
