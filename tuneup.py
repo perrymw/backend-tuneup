@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Tuneup assignment"""
 
-__author__ = "???"
+__author__ = "perrymw...with assistance from Peter"
 
 import cProfile
 import pstats
